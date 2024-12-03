@@ -1,0 +1,11 @@
+/Users/brandon/Documents/Ptarmigan_Elias/ptarmigan-custspec/ptarmigan/target/release/deps/yaml_rust-5d93da88103b3446.rmeta: /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.4.5/src/lib.rs /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.4.5/src/emitter.rs /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.4.5/src/parser.rs /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.4.5/src/scanner.rs /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.4.5/src/yaml.rs
+
+/Users/brandon/Documents/Ptarmigan_Elias/ptarmigan-custspec/ptarmigan/target/release/deps/libyaml_rust-5d93da88103b3446.rlib: /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.4.5/src/lib.rs /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.4.5/src/emitter.rs /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.4.5/src/parser.rs /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.4.5/src/scanner.rs /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.4.5/src/yaml.rs
+
+/Users/brandon/Documents/Ptarmigan_Elias/ptarmigan-custspec/ptarmigan/target/release/deps/yaml_rust-5d93da88103b3446.d: /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.4.5/src/lib.rs /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.4.5/src/emitter.rs /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.4.5/src/parser.rs /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.4.5/src/scanner.rs /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.4.5/src/yaml.rs
+
+/Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.4.5/src/lib.rs:
+/Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.4.5/src/emitter.rs:
+/Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.4.5/src/parser.rs:
+/Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.4.5/src/scanner.rs:
+/Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.4.5/src/yaml.rs:

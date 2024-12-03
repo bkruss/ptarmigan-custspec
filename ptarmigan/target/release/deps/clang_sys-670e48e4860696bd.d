@@ -1,0 +1,13 @@
+/Users/brandon/Documents/Ptarmigan_Elias/ptarmigan-custspec/ptarmigan/target/release/deps/clang_sys-670e48e4860696bd.rmeta: /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/lib.rs /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/support.rs /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/link.rs /Users/brandon/Documents/Ptarmigan_Elias/ptarmigan-custspec/ptarmigan/target/release/build/clang-sys-e35e8bb35388d4bc/out/common.rs /Users/brandon/Documents/Ptarmigan_Elias/ptarmigan-custspec/ptarmigan/target/release/build/clang-sys-e35e8bb35388d4bc/out/dynamic.rs
+
+/Users/brandon/Documents/Ptarmigan_Elias/ptarmigan-custspec/ptarmigan/target/release/deps/libclang_sys-670e48e4860696bd.rlib: /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/lib.rs /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/support.rs /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/link.rs /Users/brandon/Documents/Ptarmigan_Elias/ptarmigan-custspec/ptarmigan/target/release/build/clang-sys-e35e8bb35388d4bc/out/common.rs /Users/brandon/Documents/Ptarmigan_Elias/ptarmigan-custspec/ptarmigan/target/release/build/clang-sys-e35e8bb35388d4bc/out/dynamic.rs
+
+/Users/brandon/Documents/Ptarmigan_Elias/ptarmigan-custspec/ptarmigan/target/release/deps/clang_sys-670e48e4860696bd.d: /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/lib.rs /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/support.rs /Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/link.rs /Users/brandon/Documents/Ptarmigan_Elias/ptarmigan-custspec/ptarmigan/target/release/build/clang-sys-e35e8bb35388d4bc/out/common.rs /Users/brandon/Documents/Ptarmigan_Elias/ptarmigan-custspec/ptarmigan/target/release/build/clang-sys-e35e8bb35388d4bc/out/dynamic.rs
+
+/Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/lib.rs:
+/Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/support.rs:
+/Users/brandon/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.3/src/link.rs:
+/Users/brandon/Documents/Ptarmigan_Elias/ptarmigan-custspec/ptarmigan/target/release/build/clang-sys-e35e8bb35388d4bc/out/common.rs:
+/Users/brandon/Documents/Ptarmigan_Elias/ptarmigan-custspec/ptarmigan/target/release/build/clang-sys-e35e8bb35388d4bc/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/Users/brandon/Documents/Ptarmigan_Elias/ptarmigan-custspec/ptarmigan/target/release/build/clang-sys-e35e8bb35388d4bc/out

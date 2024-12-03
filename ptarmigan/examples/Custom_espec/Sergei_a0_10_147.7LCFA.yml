@@ -1,0 +1,23 @@
+control:
+  classical: false
+  lcfa: true
+  radiation_reaction: true
+  stop_at_time: 147.7 * femto
+laser:
+  a0: 10
+  wavelength: 1.0 * micro
+  envelope: flattop
+  n_cycles: 194
+  polarization: circular
+beam:
+  ne: 10000
+  gamma: 0.5 * GeV / (m * c^2)
+  sigma: 0.025 * GeV / (m * c^2)
+  radius: [2.5 * micro, uniformly_distributed]
+  length: 0.0 * micro
+  rms_divergence: 0.0 * milli
+  custom_spectrum: true
+  spectrum_file: /Users/brandon/Documents/GitHub/ptarmigan/examples/Custom_espec/Sergei_smoothed_lcfa.csv
+output:
+  dump_all_particles: hdf5
+  coordinate_system: beam

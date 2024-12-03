@@ -1,0 +1,30 @@
+---
+control:
+  lcfa: false # should be LMA for a_0<10
+  radiation_reaction: false
+  track_electrons: false
+  tracked_fraction: 0.1
+  colinear_emission: false
+laser:
+  a0: 10.0
+  wavelength: 0.8 * micro
+  waist: 2.5 * micro
+  fwhm_duration: 30.0 * femto
+  polarization: 'linear'
+
+beam:
+  ne: 2000 # increase or decrease to resolve spectrum and depending on how slow it is
+  gamma: 5.9 * GeV / (m * c^2)
+  sigma: 0.177 * GeV / (m* c^2)
+  radius: [2.5 * micro, normally_distributed]
+  length: 2.0 * micro
+  rms_divergence: 0.5 * milli
+  custom_spectrum: true
+  spectrum_file: '/Users/brandon/Documents/Backup-Github/ptarmigan/custom_spec_test/Sergei_1000.csv'
+
+  raw_particles: false
+  raw_file: ''
+
+output:
+  dump_all_particles: hdf5
+  coordinate_system: beam
